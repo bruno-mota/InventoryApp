@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="empty_view_title_text">Warehouse is empty</string>
+    <string name="productname">Product Name</string>
+    <string name="price">Price for each item</string>
+    <string name="quantity">Quantity:</string>
+    <string name="supplier">Supplier</string>
+    <string name="supplier_phone">Supplier\'s phone</string>
+    <string name="supplier_email">Supplier\'s email</string>
+    <string name="insert_image">Insert Image</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Inventory</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_title_add">Add Inventory</string>
+    <string name="editor_title_edit">Edit Item</string>
+    <string name="delete_dialog">Delete this item?</string>
+    <string name="delete_inventory_failed">Failed to delete inventory</string>
+    <string name="delete_inventory_success">Succeeded in delete inventory</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+</resources>
